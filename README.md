@@ -4,10 +4,6 @@ The Spring_PZ.tcl file is a subroutine written in tcl that constructs a rotation
 
 The subroutine is applicable to the OpenSees framework.
 
-# AUTHOR
-
-Code Developed by: Prof. Ahmed Elkady, University of Southampton
-
 # LICENSE
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
