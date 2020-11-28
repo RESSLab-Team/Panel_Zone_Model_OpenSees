@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-The Spring_PZ.tcl file is a subroutine written in tcl that constructs a rotational spring with a trilinear hysteretic response representative of steel panel zone response with/without the consideration of composite action.
+The Spring_PZ.tcl file is a subroutine written in tcl that constructs a rotational spring with a trilinear hysteretic response representative of steel panel zone response with/without the consideration of composite action. The model is an updated version of the Krawinkler model where the panel zone shear and bending deformations are considered as well as the effect of axial load.
 
 The subroutine is applicable to the OpenSees framework.
 
